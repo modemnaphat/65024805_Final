@@ -1,0 +1,33 @@
+.container{
+    background-color: rgb(108, 168, 192);
+    padding: 20px;
+    display: block;
+    margin: auto;
+    width: 50%;
+
+}
+.container input{
+    width: 100%;
+    padding: 5px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+#head{
+    font-size: 26px;
+    font-family: fantasy;
+    text-align: center;
+}
+#button{
+    background-color: rgb(159, 159, 230);
+    cursor: pointer;
+    margin-top: 5px;
+}
+#table,th{
+    border: 2px solid black;
+    height: 20px;
+}
+#table{
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 10px;
+}
